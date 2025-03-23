@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Zhuoran Li
+
+~~~
+{}{img_left}{photos/zhuoran2.jpg}{alt text}{116px}{121px}
+[https://lizr16.github.io Zhuoran Li] (李卓然 in Chinese), Ph.D. Student \n 
+[http://iiis.tsinghua.edu.cn/ Institute for Interdisciplinary Information Sciences (IIIS)] \n
+[http://www.tsinghua.edu.cn/ Tsinghua University] \n
+
+
+Beijing, China \n
+\n
+Email: lizr20@mails.tsinghua.edu.cn \n
+\[[https://scholar.google.com.hk/citations?user=j948XtQAAAAJ&hl=zh-CN Google Scholar]\]\[[pubs/CV_Li_2025.pdf Curriculem Vitae]\] \n
+~~~
+
+
+
+#at Baton Rouge, Louisiana, USA. (March 19, 2021)
+#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
+
+#== News
+#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
+== About me
+I am currently a fifth-year Ph.D. student in the [http://iiis.tsinghua.edu.cn/  Institute for Interdisciplinary Information Sciences (IIIS)], Tsinghua University, where I am fortunate to be advised by Prof. [https://people.iiis.tsinghua.edu.cn/~huang/index.html Longbo Huang].
+
+I received my B.E. in 2020 at [http://www.tsinghua.edu.cn/ Tsinghua University], major in [https://www.ee.tsinghua.edu.cn/ Electronic Engineering] and second major in [https://www.sem.tsinghua.edu.cn/ Economics and Finance].
+
+My research focuses on Reinforcement Learning (Theory, Algorithm and Applications), Generative AI (especially Diffusion Models and Large Language Models) and Network Optimization.
+
+~~~
+I am constantly seeking potential opportunities in both academia and industry, such as a position as a Postdoctoral Researcher or a Research Scientist. Welcome to contact me!
+~~~
+
+#I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+
+== Education 
+- Ph.D. Student in the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, Aug. 2020 - Now
+- B.S. in the Department of Electronic Engineering, Tsinghua University, Aug. 2016 - Jul. 2020
+- B.S. in the School of Economics and Management (Second Major), Tsinghua University, Aug. 2017 - Jul. 2020
+
+== Research Interests 
+- Deep Reinforcement Learning and its applications in AIGC (AI generated contents, including diffusion model and large language model).
+- Theory including Optimization theory, Reinforcement Learning theory, and Distributed Optimization.
+- Network Optimization.
+
+~~~
+== Recent News 
+- \[2025.01\] Paper "Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks" accepted to ICLR 2025 Spotlight!
+- \[2024.12\] Paper "Offline-to-Online Multi-Agent Reinforcement Learning with Offline Value Function Memory and Sequential Exploration" accepted to AAMAS 2025!
+- \[2024.10\] Paper "Smoothed Online Decision Making in Communication: Algorithms and Applications" accepted to IEEE/ACM Transactions on Networking!
+- \[2024.09\] Paper "Value-Based Deep Multi-Agent Reinforcement Learning with Dynamic Sparse Training" accepted to NeurIPS 2024!
+- \[2024.07\] Paper "Offline Learning-based Multi-User Delay-Constrained Scheduling" accepted to IEEE MASS!
+~~~
+
+== Contact
+Zhuoran Li\n
+FIT Building, Room 4-6000\n
+Tsinghua University\n
+Beijing, China, 100084\n
+Email: lizr20\@mails.tsinghua.edu.cn
+
+
+#== Visitors
+#~~~
+#{}{raw}
+#<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?#d=XQpB5M_gb7U0vbhvjFZrggZAzGQf0NpuwJPOGAS2Gts&cl=ffffff&w=a"></script>
+#~~~
+
